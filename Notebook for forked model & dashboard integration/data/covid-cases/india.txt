@@ -1,5 +1,5 @@
 # of cases: https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India 
-# assumption 10 day lag, for actually getting infected to getting confirmed via test. | relevant column for the model are date & 3rd col.
+# assumption 10 day lag, for actually getting infected to getting confirmed via test. | relevant column for the model are date & 3rd col. adjust 3rd col with mortality and recovered case.
 sr  | confirmation date |  no. of case as per infection date (10 day lag) | actual date of report
 
 34   2020-02-23	           28           04 mar
