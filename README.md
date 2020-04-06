@@ -15,21 +15,19 @@ The library is named after [Sir Ronald Ross](https://en.wikipedia.org/wiki/Ronal
 
 ## About forked implepention & related queries: 
 
-Kindly, raise an issue on GitHub, for any doubts.
-
 
 We have tuned some aspects of  the model to bring the results on ArcGIS dashboard &  fit the model with current data. And as well as introducing a lag of 10 days 
 which is due to factors, like delay in reporting, testing & individual patient reasons. So the model shows the actual situation which was 10 days back.
 The model gives a base line picture or best case scenario, hence asymptomatic are  also considered symptomatic, with a provision of keeping them separate, when sufficient data is available. 
      
-•	Assumptions: homogenous mixture of population, 10 day lag, more info. in paper.
-•	Factors included:  single & multiple lockdown’s effect on spread, social distancing, 
+-	Assumptions: homogenous mixture of population, 10 day lag, more info. in paper.
+-	Factors included:  single & multiple lockdown’s effect on spread, social distancing, 
 different age groups have different interaction with virus, contact patterns of age groups at work, home etc.
 
 Note: We recommend consulting an epidemiologist, for future tweaks or insights taken, from the model. 
 
 
-
+Kindly, raise an issue on GitHub, for any doubts.
 
 
 ## Installation for forked implementation:
