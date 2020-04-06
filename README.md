@@ -2,7 +2,7 @@
 
 [About](#about) | [Contact](#contact) | [Publications ](#publications) | [News](#news) | [Installation](#installation) | [Examples](#examples) | [License](#license)
 
-![Imagel](examples/banner.png)
+![Imagel](/banner.png)
 
 ## About
 
