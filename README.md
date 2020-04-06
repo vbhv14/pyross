@@ -22,7 +22,7 @@ Kindly, raise an issue on GitHub.
 
 Clone (or download) the repository. 
 
-create a new conda env. or clone the ArcGIS Pro default env. using the using the environment file.
+create a new conda env. or clone the ArcGIS Pro default env. using the the environment file.
 
 then in the python command prompt, go to the cloned directory and type:
 
@@ -33,7 +33,7 @@ python setup.py install
 
 ## Data sources:
 
-The age and social contact data that is needed to construct structured compartment models can be found at the following sources:
+Age and social contact data that is needed to construct structured compartment models can be found at the following links:
 
 **Age structure:** [Population Pyramid](https://www.populationpyramid.net/) website. 
 
@@ -46,7 +46,6 @@ The list of COVID-19 cases is obtained from the [Worldometer website](https://ww
 
 The authors are part of [The Rapid Assistance in Modelling the Pandemic (RAMP) ](https://www.maths.cam.ac.uk/features/call-action-covid-19) taskforce. We can be contacted at: rs2004@cam.ac.uk (Rajesh Singh) and ra413@cam.ac.uk (R. Adhikari). 
 
-Please [open an issue](https://github.com/rajeshrinet/pyross/issues) in preference to emailing us with queries, as these can then be shared with others with similar queries. Thank you!
 
 
 ## Link to original author's paper:
