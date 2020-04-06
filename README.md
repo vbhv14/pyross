@@ -4,7 +4,7 @@
 
 ![Imagel](/banner.png)
 
-## About
+## About:
 
 [PyRoss](https://gitlab.com/rajeshrinet/pyross) is a numerical library for mathematical modelling of infectious disease in Python. The library supports structured compartment models formulated as systems of differential equations. Currently, these are the **SIR**, **SEIR**, **SEAIR**, and **SEAIRQ** models. 
 
@@ -13,7 +13,7 @@ The library was developed to model the outbreak of the novel coronavirus COVID-1
 The library is named after [Sir Ronald Ross](https://en.wikipedia.org/wiki/Ronald_Ross), doctor, mathematician and poet. In 1898 he made "the great discovery" in his laboratory in Calcutta "that malaria is conveyed by the bite of a mosquito".  He won the Nobel Prize in 1902 and laid the foundations of the mathematical modelling of infectious diseases. 
 
 
-## For Forked Implepention Related queries 
+## For forked implepention Related queries: 
 
 Kindly, raise an issue on GitHub.
 
@@ -57,5 +57,5 @@ Please [open an issue](https://github.com/rajeshrinet/pyross/issues) in preferen
 * See the author's examples at [examples folder](https://github.com/rajeshrinet/pyross/tree/master/examples) .
 
 
-## License
+## License:
 This code is released under the [MIT license](http://opensource.org/licenses/MIT).
