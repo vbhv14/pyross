@@ -13,7 +13,7 @@ The library was developed to model the outbreak of the novel coronavirus COVID-1
 The library is named after [Sir Ronald Ross](https://en.wikipedia.org/wiki/Ronald_Ross), doctor, mathematician and poet. In 1898 he made "the great discovery" in his laboratory in Calcutta "that malaria is conveyed by the bite of a mosquito".  He won the Nobel Prize in 1902 and laid the foundations of the mathematical modelling of infectious diseases. 
 
 
-## About forked implepention & related queries: 
+## About forked implementation & related queries: 
 
 
 We have tuned some aspects of  the model to bring the results on ArcGIS dashboard &  fit the model with current data. And as well as introducing a lag of 10 days 
@@ -26,7 +26,7 @@ different age groups have different interaction with virus, contact patterns of 
 
 Note: We recommend consulting an epidemiologist, for future tweaks or insights taken, from the model.
 
-(Both SEIR & SIR implepention have 10 days lag, modification.)
+(Both SEIR & SIR implementation have 10 days lag, modification.)
 
 **Kindly, raise an issue on GitHub, for any doubts.**
 
