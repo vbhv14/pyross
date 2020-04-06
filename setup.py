@@ -7,7 +7,7 @@ import Cython.Compiler.Options
 Cython.Compiler.Options.annotate = True
 
 
-
+#here openMP support is not opted, which can be changed to ['-fopenmp'] .
 ompArgs = None 
 
 
