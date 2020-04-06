@@ -1,4 +1,4 @@
-## PyRoss: Infectious disease models in Python.
+## A forked Implementation of Pyross.
 
 
 
@@ -27,7 +27,7 @@ different age groups have different interaction with virus, contact patterns of 
 Note: We recommend consulting an epidemiologist, for future tweaks or insights taken, from the model. 
 
 
-Kindly, raise an issue on GitHub, for any doubts.
+**Kindly, raise an issue on GitHub, for any doubts.**
 
 
 ## Installation for forked implementation:
