@@ -22,7 +22,7 @@ Kindly, raise an issue on GitHub.
 
 Clone (or download) the repository. 
 
-create a new conda env. or clone the ArcGIS Pro default env. using the the environment file.
+create a new conda env. or clone the ArcGIS Pro default env., while using the the environment file.
 
 then in the python command prompt, go to the cloned directory and type:
 
