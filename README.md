@@ -24,7 +24,8 @@ The model gives a base line picture or best case scenario, hence asymptomatic ar
 -	Factors included:  single & multiple lockdown’s effect on spread, social distancing, 
 different age groups have different interaction with virus, contact patterns of age groups at work, home etc.
 
-Note: We recommend consulting an epidemiologist, for future tweaks or insights taken, from the model. 
+Note: We recommend consulting an epidemiologist, for future tweaks or insights taken, from the model.
+
 (Both SEIR & SIR implepention have 10 days lag, modification.)
 
 **Kindly, raise an issue on GitHub, for any doubts.**
