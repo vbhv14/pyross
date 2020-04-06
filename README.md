@@ -13,7 +13,7 @@ The library was developed to model the outbreak of the novel coronavirus COVID-1
 The library is named after [Sir Ronald Ross](https://en.wikipedia.org/wiki/Ronald_Ross), doctor, mathematician and poet. In 1898 he made "the great discovery" in his laboratory in Calcutta "that malaria is conveyed by the bite of a mosquito".  He won the Nobel Prize in 1902 and laid the foundations of the mathematical modelling of infectious diseases. 
 
 
-## For forked implepention Related queries: 
+## For forked implepention, related queries: 
 
 Kindly, raise an issue on GitHub.
 
@@ -42,7 +42,7 @@ Age and social contact data that is needed to construct structured compartment m
 The list of COVID-19 cases is obtained from the [Worldometer website](https://www.worldometers.info/coronavirus).
 
 
-## Author's Contact Info:
+## Author's contact Info:
 
 The authors are part of [The Rapid Assistance in Modelling the Pandemic (RAMP) ](https://www.maths.cam.ac.uk/features/call-action-covid-19) taskforce. They can be contacted at: rs2004@cam.ac.uk (Rajesh Singh) and ra413@cam.ac.uk (R. Adhikari) or via the main GitHub Repo. 
 
