@@ -15,6 +15,7 @@ The library is named after [Sir Ronald Ross](https://en.wikipedia.org/wiki/Ronal
 
 ## About forked implementation & related queries: 
 
+ArcGIS Dashboard Link: https://arcg.is/O1eaC
 
 We have tuned some aspects of  the model to bring the results on ArcGIS dashboard &  fit the model with current data. And as well as introducing a lag of 10 days 
 which is due to factors, like delay in reporting, testing & individual patient reasons. So the model shows the actual situation which was 10 days back.
