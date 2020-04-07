@@ -1,5 +1,4 @@
 import numpy
-import os, sys, os.path, tempfile, subprocess, shutil
 from distutils.core import setup
 from Cython.Build import cythonize
 from distutils.extension import Extension
