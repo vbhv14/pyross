@@ -36,4 +36,3 @@ sr  | confirmation date |  no. of case as per infection date (10 day lag) | actu
 55   2020-03-25            3260         04 apr
 56   2020-03-26            3843         05 apr
 57   2020-03-27            4267         06 apr
-
